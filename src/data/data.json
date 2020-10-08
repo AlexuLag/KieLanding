@@ -1,0 +1,125 @@
+{
+    "Header": {
+
+        "title": "Somos Kie Technologies",
+        "paragraph": "Una plataforma de telemedicina y tele monitoreo que integra los dispositivos médicos de lectura a una central de atención medica virtual haciendo uso de inteligencia artificial para generar alertas y predicciones de acuerdo con las lecturas y eventos tomados de los pacientes."
+
+    },
+    "About": {
+        "paragraph": "Kie Technologies nace de la necesidad de contar con alternativas que ayuden o apoyen los procesos de atención médica para enfermedades base (hipertensión, insuficiencia respiratoria, hipoglicemia, obesidad y sobrepeso)",
+        "Why": [
+            "Reutilizamos los dispositivos médicos bluetooth que tengan los pacientes.",
+            "Usamos estándares médicos y tecnológicos avalados por la IEEE y bluetooth para conexión de dispositivos.",
+            "No es necesario contar con dispositivos adicionales para enviar y centralizar lecturas."
+        ],
+        "Why2": [
+            "Reducimos  la ocupación de centros médicos haciendo análisis preventivo por medio de la inteligencia artificial y medicina preventiva.",
+            "Optimizamos el uso de los recursos médicos presenciales.",
+            "Reducimos costos por emergencias médicas que pueden ser evitadas con seguimiento y prevención."
+            
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-desktop",
+            "name": "Telemonitoreo",
+            "text": "Servicio de Monitoreo por medio de IOMT (internet de las cosas medicas) a los pacientes que cuenten con dispositivos médicos bluetooth."
+        },
+        {
+            "icon": "fa fa-user-md",
+            "name": "Telemedicina",
+            "text": "Consultas y citas médicas de control remoto, agendamiento y seguimiento a pacientes."
+        },
+        {
+            "icon": "fa fa-calculator",
+            "name": "Analisis Preventivo",
+            "text": "Sistema de análisis y evaluación de parámetros y lecturas por medio de inteligencia artificial para generación de predicciones y alarmas."
+        }       
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+       
+        {
+            "img": "img/team/01.jpg",
+            "name": "Brian Castrillon",
+            "job": "Business leader",
+            "link": "https://www.linkedin.com/in/brian-ramon-castrillon-medina-276b34145/"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "John Ubaque",
+            "job": "Cloud Developer",
+            "link": "https://www.linkedin.com/in/alexulag/"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Alexander Suarez",
+            "job": "IOS/Android Developer",
+            "link": "https://www.linkedin.com/in/alexander-suarez-66a57443/"
+
+        }
+      
+      
+    ],
+    "Contact": {
+        "address": "Calle 71f No 78a - 15",
+        "phone": "+57 1 316 530 41 51",
+        "email": "info@kieTechnologies.com",
+        "facebook": "https://www.facebook.com/kietech.co",       
+        "whatsapp": "https://wa.me/message/53KHAZMXL3BNH1",
+        "instagram": "https://www.instagram.com/kie.tech/",
+         "linkedin": "https://www.linkedin.com/company/kietech"
+    },
+    "Features": [{
+            "icon": "fa fa-mobile",
+            "title": "Dispositivos",
+            "text": "Integramos dispositivos médicos con bluetooth como: oxímetros, glucómetros, tensiómetros y basculas."
+        },
+        {
+            "icon": "fa fa-android",
+            "title": "Aplicación",
+            "text": "Tomamos la información de los dispositivos médicos y la procesamos en una aplicación Android o IOS"
+        },
+        {
+            "icon": "fa fa-server",
+            "title": "Central de monitoreo",
+            "text": "Toda la información enviada a la APP es centralizada en la nube y monitoreada por nuestros servicios de inteligencia artificial."
+        },
+        {
+            "icon": "fa fa-user-md",
+            "title": "Personal Médico",
+            "text": "La información centralizada es analizada y entregada al personal médico el cual estará atento a cualquier novedad en la salud de los pacientes."
+        }
+    ]
+}

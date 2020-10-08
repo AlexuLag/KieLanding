@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/098fd932-df6b-47a2-9bd3-32ae983ffbd8/resourceGroups/Kie/providers/Microsoft.Web/sites/KieLanding",
+    "appService.deploySubpath": "build"
+}
