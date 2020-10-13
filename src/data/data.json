@@ -27,12 +27,12 @@
         {
             "icon": "fa fa-user-md",
             "name": "Telemedicina",
-            "text": "Consultas y citas médicas de control remoto, agendamiento y seguimiento a pacientes."
+            "text": "Consultas, citas médicas de control remoto, agendamiento y seguimiento a pacientes."
         },
         {
             "icon": "fa fa-calculator",
             "name": "Analisis Preventivo",
-            "text": "Sistema de análisis y evaluación de parámetros y lecturas por medio de inteligencia artificial para generación de predicciones y alarmas."
+            "text": "Sistema de análisis, evaluación de parámetros y lecturas por medio de inteligencia artificial para generación de predicciones y alarmas."
         }       
 
 

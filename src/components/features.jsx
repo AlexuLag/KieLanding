@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+
 export class features extends Component {
   render() {
     return (
@@ -21,6 +22,8 @@ export class features extends Component {
                 ))
               : "Loading..."}
           </div>
+        
+
         </div>
       </div>
     );
